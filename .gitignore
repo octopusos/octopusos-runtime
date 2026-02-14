@@ -1,0 +1,6 @@
+artifacts/
+dist/
+*.download
+*.tmp
+.DS_Store
+
