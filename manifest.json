@@ -4,22 +4,22 @@
     "octopusos-runtime": {
       "darwin-arm64": {
         "filename": "octopusos-runtime-darwin-arm64",
-        "sha256": "02b9471be10da4c35daa4fbc03eb6ddeb3f630c519f7d74873df4278ab08f06b",
-        "tag": "v3.4.0",
-        "url": "https://github.com/octopusos/octopusos-runtime/releases/download/v3.4.0/octopusos-runtime-darwin-arm64",
-        "version": "3.4.0"
+        "sha256": "cc303feaf8f12783690de1d567b6713f2243bb90c8492fa81272f508db89a850",
+        "tag": "v3.5.0",
+        "url": "https://github.com/octopusos/octopusos-runtime/releases/download/v3.5.0/octopusos-runtime-darwin-arm64",
+        "version": "3.5.0"
       }
     },
     "ollama": {
       "darwin-arm64": {
         "filename": "ollama-darwin-arm64",
         "sha256": "8f33c6fed91e3b974d94d43b29be0f99151148957e905db2429e4883fac816cd",
-        "tag": "v3.4.0",
+        "tag": "v3.5.0",
         "upstream_tag": "v0.16.1",
-        "url": "https://github.com/octopusos/octopusos-runtime/releases/download/v3.4.0/ollama-darwin-arm64",
+        "url": "https://github.com/octopusos/octopusos-runtime/releases/download/v3.5.0/ollama-darwin-arm64",
         "version": "0.16.1"
       }
     }
   },
-  "updated_at": "2026-02-14T15:11:08Z"
+  "updated_at": "2026-02-16T10:04:29Z"
 }
